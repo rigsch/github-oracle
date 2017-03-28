@@ -1,6 +1,18 @@
 # GitHubOracle 
 Tokenize github repositories by commits and issues. Accept donations in eth tokens, distribute donations and bounties to code commiters.
- 
+Test
+test
+test
+
+
+
+
+
+
+test
+
+
+
 ## Usage 
   
 ### User Registration
